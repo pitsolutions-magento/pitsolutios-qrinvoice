@@ -1,7 +1,0 @@
-<?php declare(strict_types=1);
-
-namespace PitsQrCode\Sprain\SwissQrBill\Validator\Exception;
-
-class InvalidCreditorReferenceException extends \Exception
-{
-}
